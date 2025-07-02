@@ -22,7 +22,7 @@ from telegram.ext import (
     ConversationHandler,
     filters,
 )
-
+from keep_alive import keep_alive
 # Enable logging
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -1350,6 +1350,7 @@ def main() -> None:
     application.add_error_handler(error_handler)
 
     # Run the bot until the user presses Ctrl-C
+    keep_alive()
     application.run_polling()
 
 if __name__ == '__main__':
