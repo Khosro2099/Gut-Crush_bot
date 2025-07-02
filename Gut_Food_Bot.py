@@ -1353,5 +1353,5 @@ def main() -> None:
     keep_alive()
     application.run_polling()
 
-if __name__ == '__main__':
+while True:
     main()
