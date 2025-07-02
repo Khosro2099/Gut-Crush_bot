@@ -1302,7 +1302,7 @@ async def check_user_requirements(update: Update, context: CallbackContext) -> b
 def main() -> None:
     """Run the bot."""
     # Create the Application and pass it your bot's token.
-    application = Application.builder().token("7656756450:AAGWnFlk8mqWbwpBXLjuy4pAGS08NC5CVoE").build()
+    application = Application.builder().token("7656756450:AAEy4WOJ2lCt1mm21uJ_RteXGAXpX4r85uM").build()
 
     # Add conversation handler with the states
     conv_handler = ConversationHandler(
