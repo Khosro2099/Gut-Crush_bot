@@ -1,1 +1,1 @@
-{"users": {"7825666792": {"coins": 0, "matching_profile": null, "chat_partner": null, "username": "matinsap"}}, "admins": {"6989741405": true}, "pending_messages": {}, "pending_coins": {}, "pending_admins": {}, "matching_data": {}, "chat_pairs": {}}
+{"users": {"7825666792": {"coins": 0, "matching_profile": null, "chat_partner": null, "username": "matinsap"}}, "admins": {"6989741405": true}, "pending_messages": {}, "pending_coins": {"7825666792": true}, "pending_admins": {}, "matching_data": {}, "chat_pairs": {}}
