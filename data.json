@@ -1,4 +1,30 @@
 {
+  "users": {
+    "7825666792": {
+      "username": "matinsap",
+      "first_name": "Matin",
+      "coins": 0,
+      "status": "home",
+      "rl_answers": [],
+      "connected_with": null
+    }
+  },
+  "pending_confessions": [],
+  "pending_crushes": [],
+  "pending_comments": [],
+  "pending_requests": [],
+  "admins": [
+    6989741405
+  ],
+  "chats": {},
+  "rl_queue": [],
+  "rl_questions": [
+    "وضعیت مالی خودت چیه؟",
+    "وضعیت مالی پارتنر مورد نظرت چیه؟",
+    "وضعیت تیپ و قیافه خودت چیه؟",
+    "وضعیت تیپ و قیافه پارتنر مورد نظرت چیه؟"
+  ],
+  "rl_data": {},
   "user_coins": {
     "7825666792": 0,
     "6989741405": 0
