@@ -12,7 +12,12 @@
   "pending_confessions": [],
   "pending_crushes": [],
   "pending_comments": [],
-  "pending_requests": [],
+  "pending_requests": [
+    {
+      "user_id": 7825666792,
+      "type": "coins"
+    }
+  ],
   "admins": [
     6989741405
   ],
