@@ -1,14 +1,5 @@
 {
-  "users": {
-    "7825666792": {
-      "username": "matinsap",
-      "first_name": "Matin",
-      "coins": 0,
-      "status": "idle",
-      "role_answers": null,
-      "matched_with": null
-    }
-  },
+  "users": {},
   "pending": {
     "comments": [
       {
@@ -17,7 +8,13 @@
         "text": "rfgg"
       }
     ],
-    "confessions": [],
+    "confessions": [
+      {
+        "user_id": 7825666792,
+        "username": "matinsap",
+        "text": "vvvvvvvvvvvvvvv"
+      }
+    ],
     "crushes": [],
     "coin_requests": [],
     "admin_requests": []
